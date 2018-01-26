@@ -8,10 +8,10 @@
     "test": "ng test",
     "lint": "ng lint"
   },
-  "typings": "./companion-component.d.ts",
-  "main": "./bundles/companion-component.umd.js",
-  "module": "./esm5/companion-component.js",
-  "es2015": "./esm2015/companion-component.js",
+  "typings": "./dist/companion-component.d.ts",
+  "main": "./dist/bundles/companion-component.umd.js",
+  "module": "./dist/esm5/companion-component.js",
+  "es2015": "./dist/esm2015/companion-component.js",
   "peerDependencies": {
     "@angular/common": "^5.2.0",
     "@angular/core": "^5.2.0",
