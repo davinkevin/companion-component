@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.angular-cli.json
+/protractor.conf.js
+/karma.conf.js
+/src/
+/README.md
+/tsconfig.json
+/.editorconfig
+/dist/
+/yarn.lock
+/tslint.json
+/LICENSE
+/.angular-package.json
+/.gitignore
