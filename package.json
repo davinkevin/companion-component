@@ -7,7 +7,6 @@
     "test": "ng test",
     "lint": "ng lint"
   },
-  "private": true,
   "typings": "./companion-component.d.ts",
   "main": "./bundles/companion-component.umd.js",
   "module": "./esm5/companion-component.js",
