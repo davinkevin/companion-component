@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build": "angular-package-builder",
+    "prepare": "angular-package-builder",
     "test": "ng test",
     "lint": "ng lint"
   },

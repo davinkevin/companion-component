@@ -6,9 +6,9 @@
 /README.md
 /tsconfig.json
 /.editorconfig
-/dist/
 /yarn.lock
 /tslint.json
 /LICENSE
 /.angular-package.json
 /.gitignore
+/.idea
