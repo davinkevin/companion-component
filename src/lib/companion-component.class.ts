@@ -11,7 +11,7 @@ export class CompanionComponent {
     this.takeUntil = takeUntil(this.observable);
   }
 
-  untilDestroy() {
+  untilDestroy(): () => MonoTypeOperatorFunction<any> {
     return () => this.takeUntil;
   }
 

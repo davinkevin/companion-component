@@ -1,1 +1,1 @@
-export * from './companion-component';
+export * from './companion-component.class';
