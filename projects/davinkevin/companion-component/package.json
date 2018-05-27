@@ -1,0 +1,7 @@
+{
+  "name": "@davinkevin/companion-component",
+  "version": "0.2.0",
+  "peerDependencies": {
+    "rxjs": "^6.2.0"
+  }
+}
