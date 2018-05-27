@@ -17,9 +17,6 @@
       "dom"
     ],
     "paths": {
-      "companion-component": [
-        "dist/companion-component"
-      ],
       "@davinkevin/companion-component": [
         "dist/davinkevin/companion-component"
       ]
